@@ -1,0 +1,1 @@
+print("la moyenne est: "+str(int(input("note fr, "))+ int(input("note nl? "))+(int(input("note mth, "))/3

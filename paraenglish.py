@@ -1,0 +1,10 @@
+a=input("Combien d'heures se sont ecoulées? ")
+b=input("Combien de minutes se sont écoulées? ")
+c=input("Combien de secondes se sont écoulées? ")
+a=int(a)
+b=int(b)
+c=int(c)
+a1=(a*1200)
+b1=(960)
+
+print()
